@@ -1,0 +1,10 @@
+1- make the design.
+2- display the characters.
+3- let the user select a character.
+4- display the selected character on (your character) div
+5- hide all the characters from the (characters available) div
+6- display the the remaining characters on enemies available to attack and change the style(background-color and border)
+7- let the user select an enemy to fight
+8- hide the enemy from (enemies available) div
+9- display the selected enemy on (defender) div and change the style(background and border)
+10- atart attck:

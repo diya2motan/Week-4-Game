@@ -44,6 +44,7 @@ var defender;
 var charBaseAttackPower = 0;
 
 $(document).ready(function() {
+   
     $(document).on("click", "div", function() {
 
         //check if enemies are done
